@@ -1,0 +1,12 @@
+# Ignore visual studio code files
+*.vscode/
+# Ignore dolphin files
+*.directory
+# Ignore test results
+*/outputs/*
+*.html
+*.xml
+#Ignore generated .pyc
+__pycache__/
+*.pyc
+
